@@ -1,9 +1,10 @@
 {
   "pages": [
-    "pages/index/main",
     "pages/logs/main",
+    "pages/index/main",
     "pages/shop_car/main",
-    "pages/my_self/main"
+    "pages/my_self/main",
+    "pages/search/main"
   ],
   "window": {
     "backgroundTextStyle": "light",
